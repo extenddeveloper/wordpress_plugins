@@ -1,0 +1,19 @@
+{
+    "name": "jewel10/extenddev-academy",
+    "description": "Practice plugin for well structure",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "ExtendDevs\\Academy\\": "includes/"
+        },
+        "files": [ "includes/functions.php" ]
+    },
+    "authors": [
+        {
+            "name": "Jewel Hossain"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
