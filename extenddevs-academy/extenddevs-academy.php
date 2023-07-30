@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: ExtendDevs Academy
- * Plugin URI: https://extenddevs.com
+ * Plugin URI: https://extenddeveloper.com
  * Description: ExtendDevs Academy
  * Author: Jewel Hossain
  * Version: 1.0
