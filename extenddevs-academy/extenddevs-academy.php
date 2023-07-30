@@ -6,7 +6,7 @@
  * Description: ExtendDevs Academy
  * Author: Jewel Hossain
  * Version: 1.0
- * Author URI: https://extenddevs.com
+ * Author URI: https://extenddeveloper.com
  * Text Domain: extenddev-academy
  * Domain Path: /languages
  * WC requires at least: 3.0
